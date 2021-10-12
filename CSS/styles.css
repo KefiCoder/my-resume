@@ -125,6 +125,10 @@ body {
   margin-bottom: 10px;
 }
 /* contacts */
+.image_tab:hover{
+  color: darkred;
+}
+
 .Con_sign {
   font-weight: bold;
   font-size: 14px;
@@ -148,17 +152,18 @@ button:hover{
   padding: 0 0 0 16px;
 }
 .Tech_skill_item {
-  color: #5ac5c0;
+  color: darkred;
 }
 .Tech_skill_item_text {
   color: #fff;
+  font-size: 24px;
 }
 /* soft skills */
 .soft_skills {
   padding: 0 0 0 16px;
 }
 .SS_item {
-  color: #5ac5c0;
+  color: darkred;
 }
 .SS_I_text {
   color: #fff;
